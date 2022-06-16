@@ -9,7 +9,7 @@ const gamewindowall=document.querySelector('.gamewindowall')
 
 
 
-firstwrapper
+// firstwrapper
 const firststartscreen=document.querySelector('.firststartscreen')
 const anotherstartscreen=document.querySelector('.anotherstartscreen')
 
@@ -28,7 +28,7 @@ const spacingBetweenObstacle=widthOfWindow/4
 
 const widthOfBird=30;
 const heightOfBird=30;
-const fallingSpeed=10;
+const fallingSpeed=20;
 
 const defaultVelocity=0.1;
 const defaultGravity=0.3;
